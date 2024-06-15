@@ -42,3 +42,4 @@ After that, select the webapplication and run it to view the websites.
 Verify Operations:
 
 You should see that operations performed on the site are saved in the database and also trigger the corresponding Python files accordingly.
+# The full code can be found here: https://drive.google.com/file/d/1hgqLg0Ms1ylotlL6-q0TqyIN8JMKbWn8/view
